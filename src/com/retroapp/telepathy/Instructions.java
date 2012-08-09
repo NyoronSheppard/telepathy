@@ -16,7 +16,7 @@ public class Instructions extends Activity {
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
-        getMenuInflater().inflate(R.menu.activity_instructions, menu);
+        //getMenuInflater().inflate(R.menu.activity_instructions, menu);
         return true;
     }
 

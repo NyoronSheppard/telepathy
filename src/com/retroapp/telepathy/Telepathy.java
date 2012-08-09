@@ -16,7 +16,7 @@ public class Telepathy extends Activity {
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
-        getMenuInflater().inflate(R.menu.activity_telepathy, menu);
+        //getMenuInflater().inflate(R.menu.activity_telepathy, menu);
         return true;
     }
 

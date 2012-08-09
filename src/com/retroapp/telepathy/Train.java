@@ -16,7 +16,7 @@ public class Train extends Activity {
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
-        getMenuInflater().inflate(R.menu.activity_train, menu);
+      //  getMenuInflater().inflate(R.menu.activity_train, menu);
         return true;
     }
 

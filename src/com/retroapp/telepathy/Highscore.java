@@ -16,7 +16,7 @@ public class Highscore extends Activity {
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
-        getMenuInflater().inflate(R.menu.activity_highscore, menu);
+       // getMenuInflater().inflate(R.menu.activity_highscore, menu);
         return true;
     }
 
